@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Francelino Marcílio!
 - 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UFRN 
-- 👨‍💻 Hoje trabalho com front-end (Angular) na Empresa Quark Tecnologia.
+- 👨‍💻 Hoje trabalho com front-end (Angular) na Empresa Spassu Tecnologia.
 - 🧑‍🎓 Estudando Spring Boot, React e PostgreSQL.
 
 <div>
