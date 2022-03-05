@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Francelino Marcílio!
 - 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UFRN 
-- 👨‍💻 Hoje trabalho com front-end (Angular) na Empresa Spassu Tecnologia.
-- 🧑‍🎓 Estudando Angular e Spring Boot.
+- 👨‍💻 Atualmente trabalho com front-end (Angular) na Empresa Spassu Tecnologia.
+- 🧑‍🎓 Estudando JavaScript, HTML, CSS, Angular e Spring Boot.
 
 <div>
   <a href="https://github.com/francelinom">
