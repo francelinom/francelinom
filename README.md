@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Francelino Marcílio!
 - 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UFRN 
-- 👨‍💻 Atualmente trabalho com front-end (Angular) na Empresa Ernst & Young.
+- 👨‍💻 Atualmente trabalho como dev fullstack com as tecnologias Java, Spring boot, JavaScript, TypeScript e Angular na Empresa Ernst & Young.
 - 🧑‍🎓 Estudando JavaScript, HTML, CSS, Angular e Spring Boot.
 
 <div>
